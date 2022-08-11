@@ -1,9 +1,22 @@
 body {
+    margin: 0%;
     font-family: 'Inconsolata';
     background-color: rgb(75, 75, 75);
     color: rgb(255, 255, 30);
 }
 
+header {
+    background-color: rgb(60, 60, 60);
+    font-size: 200%;
+    width: 100%;
+    padding: 1%;
+    margin-top: 0%;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-weight: 900 ;
+}
+
+#a {
+    font-size: 50%;
 }
