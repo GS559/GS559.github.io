@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'inconsolataregular';
+    src: url('https://gs559.github.io/fonts/inconsolata.woff2') format('woff2'),
+         url('https://gs559.github.io/fonts/inconsolata.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
     text-align: center;
 }
@@ -6,5 +14,5 @@ body {
     font-family: Arial;
 }
 #iconsolata {
-    font-family: iconsolata;
+    font-family: iconsolataregular;
 }
